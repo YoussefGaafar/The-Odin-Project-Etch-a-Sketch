@@ -1,5 +1,5 @@
 const container = document.querySelector(".container");
-container.style.cssText = "display: flex; flex-wrap: wrap; margin-top: 90px; width: 100%; justify-content: center; margin-bottom: 90px; border: 1px solid black;";
+container.style.cssText = "display: flex; flex-wrap: wrap; margin-top: 90px; width: 100%; justify-content: center; margin-bottom: 90px; border: 10px solid black;";
 const randomColor = () => Math.floor(Math.random() * 256);
 
 
