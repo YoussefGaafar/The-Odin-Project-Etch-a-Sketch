@@ -20,6 +20,4 @@ A fun and interactive web app inspired by the classic Etch-a-Sketch toy. Draw on
 * CSS3
 * JavaScript
 
-**Live Demo**
-
-Provide a link to your deployed application (if available). You can use GitHub Pages or any other hosting platform.
+**Live [Demo](https://youssefgaafar.github.io/The-Odin-Project-Etch-a-Sketch/)**
